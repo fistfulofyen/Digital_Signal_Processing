@@ -22,6 +22,10 @@ This GitHub repository contains a collection of projects related to digital sign
 5. **IIR Digital Filter Design**
    - Dive into the world of Infinite Impulse Response (IIR) digital filter design using MATLAB. Understand the design principles, real-world applications, and how to implement IIR filters effectively.
 
+6. **Matched Filters for Detection of BPSK and BFSK Signals**
+   - In digital communication, modulating signals with carrier waves helps in noise resilience. Using a matched filter optimizes signal-to-noise ratio during detection, reducing error probability in binary signal detection amidst spectrally white noise.
+
+
 ## Requirements
 
 - MATLAB R2023a or Matlab Online
